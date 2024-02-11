@@ -1,2 +1,2 @@
 # GATr_arteries_classification
-In this repository, the architecture known as the Geometric Algebra Transformer is implemented. In particular, the model will be able to process data simulating two types of 3D arteries: single arteries with stenosis and bifurcated arteries. The peculiarity of GATr is that they are invariant to Euclidean transformations in R3 such as translations rotations reflections.
+In this repository, the architecture known as the Geometric Algebra Transformer is implemented. In particular, the model will be able to process data simulating two types of 3D arteries: single arteries with stenosis and bifurcated arteries. The peculiarity of GATr is that they are invariant to Euclidean transformations in R3 such as translations, rotations and reflections. 
