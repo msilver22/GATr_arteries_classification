@@ -9,3 +9,6 @@ An overview of the GATr model is given by the following image.
 
 
 ![Architecture](https://github.com/msilver22/GATr_arteries_classification/blob/main/photos/gatr_architecture2.png)
+
+
+See the [Implementation]()
