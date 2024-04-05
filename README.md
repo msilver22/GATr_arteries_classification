@@ -1,4 +1,4 @@
-# GATr_arteries_classification
+# Geometric Algebra Transformer for arteries classification
 
 ---
 
